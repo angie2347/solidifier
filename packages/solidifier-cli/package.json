@@ -13,6 +13,6 @@
 	"dependencies": {
 		"mkdirp": "1.0.4",
 		"solidifier": "2.2.3",
-		"yargs": "15.4.0"
+		"yargs": "16.1.1"
 	}
 }
